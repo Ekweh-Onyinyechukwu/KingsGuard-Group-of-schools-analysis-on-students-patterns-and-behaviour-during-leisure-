@@ -1,4 +1,4 @@
-# KingsGuard-Group-of-schools-analysis-on-students-patterns-and-behaviour-during-leisure-
+ # KingsGuard-Group-of-schools-analysis-on-students-patterns-and-behaviour-during-leisure-
 
 ![](school3.jfif)
 
@@ -37,7 +37,7 @@ All dataset and reports do not represent any school,institution or country but j
 
    ## VISUAUALISATION:
 
-   ### To interact with the dashboard click  [here](https://lnkd.in/eDzg-fMN)
+- ### To interact with the dashboard click  [here](https://lnkd.in/eDzg-fMN)
 
    ![](king.PNG)
 
