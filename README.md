@@ -36,5 +36,66 @@ All dataset and reports do not represent any school,institution or country but j
  ![](over2.PNG)
 
    ## VISUAUALISATION:
+
+   ![](king.PNG)
+
+  - Total activities 1578
+  - Number of activities by gender:female 998,male 580
+  - School performance by gender:
+    
+                                    female                                   |              male
+            -------------------------------------------------------------------------------------------------------------
+                         -Excellent 3                                        |                 3
+                         -Average   4                                        |                 4
+                         -Good      3                                        |                 3
+
+
+ - most popular games among the students:
+      
+      -basketbal 136
+      
+      -chess  75
+      
+      -football  375
+      
+      -minecraft  662
+      
+      -scrabble  330
+      
+
+ - proportion of games played:
+     
+    -videogames 41.95%
+   
+    -board games  25.69%
+   
+    -sports  32.38%  and so on.
+
+   ## Insights:
    
 
+                                female                                                                      male
+                                                                                    |
+                  ---------------------------------------------------------------------------------------------------------------
+              -count of activities is 998                                           |           count of activities is 580
+   
+              -count of games:
+                               basketball  72                                       |           count of games basketball is  64
+                               chess   48                                           |                    chess    27
+                               football 286                                         |                    football  89
+                               minecraft 434                                        |                     minecraft 228
+                               scrabble 434                                         |                     scrabble    172
+              -propo. of game category played:                                      |
+   
+                     video games 43.49%  of 998                                     |                    video games   39.31% of 580       
+                     board games 20.64%                                             |                     board games   34.31%  
+                    sports     35.87%                                              |                      sports         26.38%
+              -school performance
+
+                   good 3                                                          |                       good  3                                                   
+                   average 4                                                       |                       average   4
+                  excellent 3                                                      |                       excellent  3
+   
+   
+
+   
