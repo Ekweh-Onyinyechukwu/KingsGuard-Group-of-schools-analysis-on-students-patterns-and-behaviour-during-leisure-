@@ -16,16 +16,25 @@ All dataset and reports do not represent any school,institution or country but j
  - Promote a class leading educational environment
 
    ## SKILLS AND CONCEPTS DEMOSTRATED:
-   - Data Connection and Preparation
-   - Drag-and-Drop Interface
-   - Dimensions and Measures
-   - Calculated Fields
-   - Visualizations
-   - Filters
-   - Aggregations
-   - Parameters
-   - Dashboards
-   - Trend Lines
-   - Storytelling
-   - Publishing and Sharing
+ - Data Connection and Preparation
+ - Drag-and-Drop Interface
+ - Dimensions and Measures
+ - Calculated Fields
+ - Visualizations
+ - Filters
+ - Aggregations
+ - Parameters
+ - Dashboards
+ - Trend Lines
+ - Storytelling
+ - Publishing and Sharing
+
+   ## ANALYSIS:
+  The report consists of:
+
+  
+ ![](over2.PNG)
+
+   ## VISUAUALISATION:
+   
 
