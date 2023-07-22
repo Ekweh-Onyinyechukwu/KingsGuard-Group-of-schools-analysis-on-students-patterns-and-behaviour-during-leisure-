@@ -37,13 +37,11 @@ All dataset and reports do not represent any school,institution or country but j
 
    ## VISUAUALISATION:
 
+   To interact with the dashboard click  [here](https://lnkd.in/eDzg-fMN)
+
    ![](king.PNG)
 
-   
-
-   To interact with the dashboard click  [here](https://lnkd.in/eDzg-fMN)
-   
-
+  
   - Total activities 1578
   - Number of activities by gender:female 998,male 580
   - School performance by gender:
