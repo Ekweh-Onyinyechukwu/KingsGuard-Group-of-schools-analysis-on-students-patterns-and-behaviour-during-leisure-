@@ -74,7 +74,7 @@ All dataset and reports do not represent any school,institution or country but j
    ## Insights:
    
 
-                                female                                 |                                     male
+                                female                                 |                    male
                                                                                     
                   ---------------------------------------------------------------------------------------------------------------
               -count of activities is 998                              |             count of activities is 580
