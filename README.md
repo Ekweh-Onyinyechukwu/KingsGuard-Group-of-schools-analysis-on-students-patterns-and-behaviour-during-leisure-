@@ -94,9 +94,9 @@ All dataset and reports do not represent any school,institution or country but j
                     sports     35.87%                                  |                      sports         26.38%
               -school performance
 
-                   good 3                                              |                       good  3                                                   
-                   average 4                                           |                       average   4
-                  excellent 3                                          |                       excellent  3
+                                 good 3                                |                                    good  3                                                   
+                                 average 4                             |                                     average   4
+                                 excellent 3                           |                                      excellent  3
    
    
 
